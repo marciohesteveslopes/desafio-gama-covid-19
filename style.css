@@ -37,7 +37,7 @@ body {
 
 #noticiasLinha1{
     padding: 2%;
-    background-color: grey;
+    background-color: #a3a3c2;
     display: flex;
     text-align: center;
     width: 100%;
@@ -96,7 +96,8 @@ body {
 }
 
 #meuResumo img{
-    padding: 4%;
+    margin: 4%;
+    border: purple 2px solid;
 }
 
 #linksUsados{
@@ -111,4 +112,8 @@ body {
 
 #linksUsados ul li{
     font-size: 14px;
+}
+
+#formulario {
+    text-align: center;
 }
